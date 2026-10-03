@@ -1,8 +1,8 @@
 {
-  "version": "0.9.3",
-  "tag": "v0.9.3",
-  "asset": "GaleriaPremium_Update_v0.9.3.zip",
+  "version": "0.9.4",
+  "tag": "v0.9.4",
+  "asset": "GaleriaPremium_Update_v0.9.4.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.3/GaleriaPremium_Update_v0.9.3.zip",
-  "notes": "Galería Premium v0.9.3  - Prueba real del sistema de actualización automática. - Nueva opción para migrar la biblioteca a otro disco o carpeta. - Nueva opción para usar una biblioteca existente. - Opción para abrir la carpeta de datos y restaurar la ubicación predeterminada. - La carpeta anterior se conserva como respaldo al migrar. - Versión visible en la barra lateral y en Configuración. - Corrección de compilación para GitHub Actions."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.4/GaleriaPremium_Update_v0.9.4.zip",
+  "notes": "Galería Premium v0.9.4  - “Buscar actualizaciones…” y “Buscar actualizaciones al iniciar” aparecen también en Proyectos y Videos. - La Ficha de publicación reemplaza “ABRIR CARPETA” por “COPIAR RUTA”. - “COPIAR RUTA” copia al portapapeles la carpeta del meme/proyecto actual."
 }
