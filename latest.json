@@ -4,5 +4,5 @@
   "asset": "GaleriaPremium_Update_v0.9.3.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
   "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.3/GaleriaPremium_Update_v0.9.3.zip",
-  "notes": "Prueba de actualización: migración de biblioteca, biblioteca existente y versión visible."
+  "notes": "Galería Premium v0.9.3  - Prueba real del sistema de actualización automática. - Nueva opción para migrar la biblioteca a otro disco o carpeta. - Nueva opción para usar una biblioteca existente. - Opción para abrir la carpeta de datos y restaurar la ubicación predeterminada. - La carpeta anterior se conserva como respaldo al migrar. - Versión visible en la barra lateral y en Configuración. - Corrección de compilación para GitHub Actions."
 }
