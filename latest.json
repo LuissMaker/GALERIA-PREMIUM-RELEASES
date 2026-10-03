@@ -1,8 +1,8 @@
 {
-  "version": "0.9.4",
-  "tag": "v0.9.4",
-  "asset": "GaleriaPremium_Update_v0.9.4.zip",
+  "version": "0.9.5",
+  "tag": "v0.9.5",
+  "asset": "GaleriaPremium_Update_v0.9.5.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.4/GaleriaPremium_Update_v0.9.4.zip",
-  "notes": "Galería Premium v0.9.4  - “Buscar actualizaciones…” y “Buscar actualizaciones al iniciar” aparecen también en Proyectos y Videos. - La Ficha de publicación reemplaza “ABRIR CARPETA” por “COPIAR RUTA”. - “COPIAR RUTA” copia al portapapeles la carpeta del meme/proyecto actual."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.5/GaleriaPremium_Update_v0.9.5.zip",
+  "notes": "Galería Premium v0.9.5  - El actualizador ya no requiere GitHub CLI ni iniciar sesión. - Las actualizaciones se descargan directamente por HTTPS desde el repositorio público de releases. - Incluye los cambios de v0.9.4: Buscar actualizaciones en Proyectos y Videos. - La Ficha de publicación usa “COPIAR RUTA” para copiar la carpeta del meme/proyecto."
 }
