@@ -1,8 +1,8 @@
 {
-  "version": "0.9.6",
-  "tag": "v0.9.6",
-  "asset": "GaleriaPremium_Update_v0.9.6.zip",
+  "version": "0.9.7",
+  "tag": "v0.9.7",
+  "asset": "GaleriaPremium_Update_v0.9.7.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.6/GaleriaPremium_Update_v0.9.6.zip",
-  "notes": "Galería Premium v0.9.6  - Ficha de publicación más compacta y adaptada al tamaño de la preview. - Se elimina el botón grande “Copiar imagen” bajo la preview. - Se restauran las flechas superpuestas para cambiar entre imágenes/mesas cuando hay 2 o más. - La navegación de imágenes es circular y muestra contador. - Con 2 o más imágenes vuelven los checks por red para decidir qué imagen se usa en Facebook, Threads, X e Instagram. - Mantiene “COPIAR RUTA” y el actualizador HTTPS sin GitHub CLI."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.7/GaleriaPremium_Update_v0.9.7.zip",
+  "notes": "Galería Premium v0.9.7  - Pantalla de inicio reorganizada para ventanas pequeñas y medianas. - El Home puede usar 3 columnas antes, aprovechando mejor el ancho disponible. - Las tarjetas de Biblioteca, Proyectos y Videos se adaptan al ancho de su columna. - Se agrega scroll vertical para evitar que espacios queden fuera de pantalla. - Márgenes y separaciones del Home se compactan para aprovechar mejor la ventana. - El símbolo “+” de “Agregar o crear espacio” queda centrado visualmente. - Mantiene la ficha compacta, asignación por imagen y actualizador HTTPS."
 }
