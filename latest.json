@@ -1,8 +1,8 @@
 {
-  "version": "0.10.2",
-  "tag": "v0.10.2",
-  "asset": "GaleriaPremium_Update_v0.10.2.zip",
+  "version": "0.10.3",
+  "tag": "v0.10.3",
+  "asset": "GaleriaPremium_Update_v0.10.3.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.2/GaleriaPremium_Update_v0.10.2.zip",
-  "notes": "Galería Premium v0.10.2  - Corrige GRUPOS en Biblioteca visual: las imágenes internas ya no invaden Recientes ni Más recientes. - Un grupo como BANDERAS vuelve a representarse como una sola tarjeta de grupo. - Las 200+ imágenes internas siguen disponibles al buscar/explorar el grupo. - Favoritos, secciones y otras vistas específicas conservan su comportamiento independiente. - Mantiene todos los cambios de v0.10.1: caché de workspaces, iconos, ficha de publicación y mejoras de grupos."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.3/GaleriaPremium_Update_v0.10.3.zip",
+  "notes": "Galería Premium v0.10.3  - Biblioteca visual: las Secciones usan el icono de imagen enviado por el usuario y los GRUPOS usan el icono de galería, adaptados al tema oscuro. - GRUPOS: al seleccionar una imagen en el buscador rápido pasa inmediatamente a ser la miniatura activa del grupo. - GRUPOS: añade Enviar a Photoshop directamente desde el buscador rápido. - GRUPOS: añade Quitar del grupo tanto como botón como en clic derecho; no elimina el archivo de Biblioteca visual. - GRUPOS: clic derecho permite usar una imagen como miniatura, enviarla a Photoshop o quitarla. - Proyectos: icono de carpeta discreto junto a las secciones/carpetas reales; “Sin sección” permanece sin icono. - Rendimiento de Proyectos: nuevo índice persistente por workspace. En accesos posteriores reutiliza rutas de render/PSD ya resueltas y solo reescanea proyectos que cambiaron. - Se conserva la caché de miniaturas de Project Thumbs, por lo que no se vuelven a procesar los JPG originales si no cambiaron."
 }
