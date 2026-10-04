@@ -1,8 +1,8 @@
 {
-  "version": "0.9.9",
-  "tag": "v0.9.9",
-  "asset": "GaleriaPremium_Update_v0.9.9.zip",
+  "version": "0.10.0",
+  "tag": "v0.10.0",
+  "asset": "GaleriaPremium_Update_v0.10.0.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.9/GaleriaPremium_Update_v0.9.9.zip",
-  "notes": "Galería Premium v0.9.9  - La preview de la Ficha de publicación ocupa toda la columna izquierda útil, sin dejar un bloque vacío debajo. - Las flechas de navegación quedan flotando directamente sobre la imagen, sin recuadro negro. - El contador de imagen queda más limpio, sin caja de fondo. - Se eliminan las ventanas de PowerShell al preparar publicaciones. - Ctrl+V se envía directamente con Win32 para no robar el foco del navegador. - En X/Twitter el caption se precarga mediante la URL del compositor y después se pega únicamente la imagen. - Se aumenta el tiempo de espera antes de pegar la imagen para dar tiempo a que X/Brave enfoque el compositor. - Mantiene la corrección del actualizador de v0.9.8 y el Home responsivo."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.0/GaleriaPremium_Update_v0.10.0.zip",
+  "notes": "Galería Premium v0.10.0  - Nueva función GRUPOS en Biblioteca visual para contener grandes cantidades de recursos sin saturar la galería. - Los grupos aparecen en la zona de Secciones, en Más recientes y también responden al buscador global por nombre. - Clic en un grupo abre un buscador rápido interno; la imagen elegida se convierte en la miniatura activa/última usada. - “Explorar grupo” abre sus elementos en una ficha navegable. - Menú Organizar añade “Agregar a grupo” y permite crear un grupo directamente desde una imagen. - La Ficha de imagen adopta el lenguaje visual de la Ficha de publicación: preview dominante, navegación superpuesta, texto compacto y variantes. - La Ficha de publicación elimina “ABRIR VARIAS”: un único botón SUBIR abre una o varias redes según la selección. - La Ficha de publicación usa un diseño más plano con menos cajas y bordes. - Opción para iniciar Galería Premium con Windows y abrir minimizada en segundo plano. - Al iniciar en segundo plano precarga miniaturas recientes para acelerar la primera apertura. - Se añade icono de bandeja para volver a abrir la aplicación o salir."
 }
