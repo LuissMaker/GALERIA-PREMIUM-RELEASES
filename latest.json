@@ -1,8 +1,8 @@
 {
-  "version": "0.9.5",
-  "tag": "v0.9.5",
-  "asset": "GaleriaPremium_Update_v0.9.5.zip",
+  "version": "0.9.6",
+  "tag": "v0.9.6",
+  "asset": "GaleriaPremium_Update_v0.9.6.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.5/GaleriaPremium_Update_v0.9.5.zip",
-  "notes": "Galería Premium v0.9.5  - El actualizador ya no requiere GitHub CLI ni iniciar sesión. - Las actualizaciones se descargan directamente por HTTPS desde el repositorio público de releases. - Incluye los cambios de v0.9.4: Buscar actualizaciones en Proyectos y Videos. - La Ficha de publicación usa “COPIAR RUTA” para copiar la carpeta del meme/proyecto."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.6/GaleriaPremium_Update_v0.9.6.zip",
+  "notes": "Galería Premium v0.9.6  - Ficha de publicación más compacta y adaptada al tamaño de la preview. - Se elimina el botón grande “Copiar imagen” bajo la preview. - Se restauran las flechas superpuestas para cambiar entre imágenes/mesas cuando hay 2 o más. - La navegación de imágenes es circular y muestra contador. - Con 2 o más imágenes vuelven los checks por red para decidir qué imagen se usa en Facebook, Threads, X e Instagram. - Mantiene “COPIAR RUTA” y el actualizador HTTPS sin GitHub CLI."
 }
