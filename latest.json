@@ -1,8 +1,8 @@
 {
-  "version": "0.10.1",
-  "tag": "v0.10.1",
-  "asset": "GaleriaPremium_Update_v0.10.1.zip",
+  "version": "0.10.2",
+  "tag": "v0.10.2",
+  "asset": "GaleriaPremium_Update_v0.10.2.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.1/GaleriaPremium_Update_v0.10.1.zip",
-  "notes": "Galería Premium v0.10.1  - Nuevo icono principal preparado para Windows en múltiples resoluciones, usado por EXE, accesos directos, barra de tareas y bandeja. - Iconos de agregar y copiar adaptados al tema oscuro e integrados en Home, Secciones y Ficha de publicación. - “Ver ficha…” de Biblioteca visual usa el mismo icono que “Ficha de publicación…”. - Ficha de publicación: Comentario gana prioridad visual; Caption ocupa menos altura; REDES se compacta. - SUBIR usa el icono social ya existente y COPIAR RUTA usa el nuevo icono de copiar sin saltos de texto. - GRUPOS: dejan de aparecer dentro de categorías/secciones donde no corresponden. - GRUPOS: aparecen primero en la lista lateral de Secciones/Grupos para encontrarlos rápidamente. - GRUPOS: tarjeta integrada al flujo visual de las imágenes, menú contextual propio, arrastrar archivos, Agregar imágenes y Pegar. - Home: “Agregar espacio” pasa a ser una acción global superior, separada de las tarjetas de proyectos. - Proyectos: se eliminan “Sin acabar” y “Terminados” del sidebar; el estado sigue disponible en metadata y menú contextual. - Rendimiento: volver al mismo workspace de Biblioteca, Proyectos o Videos reutiliza la vista ya cargada en RAM en lugar de reconstruirla. - Precarga opcional de Biblioteca y primer workspace de Proyectos al iniciar en segundo plano. - Nueva sección “Caché y rendimiento”: tamaño actual, límite 1/2/5/10 GB o sin límite, abrir caché y limpiar miniaturas."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.2/GaleriaPremium_Update_v0.10.2.zip",
+  "notes": "Galería Premium v0.10.2  - Corrige GRUPOS en Biblioteca visual: las imágenes internas ya no invaden Recientes ni Más recientes. - Un grupo como BANDERAS vuelve a representarse como una sola tarjeta de grupo. - Las 200+ imágenes internas siguen disponibles al buscar/explorar el grupo. - Favoritos, secciones y otras vistas específicas conservan su comportamiento independiente. - Mantiene todos los cambios de v0.10.1: caché de workspaces, iconos, ficha de publicación y mejoras de grupos."
 }
