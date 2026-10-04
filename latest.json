@@ -1,8 +1,8 @@
 {
-  "version": "0.9.8",
-  "tag": "v0.9.8",
-  "asset": "GaleriaPremium_Update_v0.9.8.zip",
+  "version": "0.9.9",
+  "tag": "v0.9.9",
+  "asset": "GaleriaPremium_Update_v0.9.9.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.8/GaleriaPremium_Update_v0.9.8.zip",
-  "notes": "Galería Premium v0.9.8  - Corrige la ruta del actualizador en instalaciones PyInstaller onedir. - El updater ahora se busca junto a “Galeria Premium.exe”, no dentro de “_internal”. - La actualización reemplaza correctamente los archivos en la carpeta real de instalación. - Si faltara el updater, el mensaje muestra la ruta exacta que se intentó localizar. - Mantiene el Home responsivo de v0.9.7 y las mejoras recientes de la Ficha de publicación."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.9.9/GaleriaPremium_Update_v0.9.9.zip",
+  "notes": "Galería Premium v0.9.9  - La preview de la Ficha de publicación ocupa toda la columna izquierda útil, sin dejar un bloque vacío debajo. - Las flechas de navegación quedan flotando directamente sobre la imagen, sin recuadro negro. - El contador de imagen queda más limpio, sin caja de fondo. - Se eliminan las ventanas de PowerShell al preparar publicaciones. - Ctrl+V se envía directamente con Win32 para no robar el foco del navegador. - En X/Twitter el caption se precarga mediante la URL del compositor y después se pega únicamente la imagen. - Se aumenta el tiempo de espera antes de pegar la imagen para dar tiempo a que X/Brave enfoque el compositor. - Mantiene la corrección del actualizador de v0.9.8 y el Home responsivo."
 }
