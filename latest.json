@@ -1,8 +1,8 @@
 {
-  "version": "0.10.7",
-  "tag": "v0.10.7",
-  "asset": "GaleriaPremium_Update_v0.10.7.zip",
+  "version": "0.10.8",
+  "tag": "v0.10.8",
+  "asset": "GaleriaPremium_Update_v0.10.8.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.7/GaleriaPremium_Update_v0.10.7.zip",
-  "notes": "Galería Premium v0.10.7  - Rediseño visual real de la Biblioteca de PSD / Proyectos. - Recientes ahora usa un inspector superior de ancho completo para el proyecto seleccionado, en lugar de cuatro tarjetas compitiendo en la misma fila. - Al hacer clic en cualquier proyecto reciente, pasa inmediatamente al inspector sin abrir Photoshop. - El inspector muestra sección, disponibilidad de PSD, número de artboards y estado de Favorito. - Si un PSD tiene varios artboards, el inspector puede usar el primer artboard como preview de alta calidad. - La cuadrícula de proyectos recientes es más compacta, con menos espacio negro y más proyectos visibles por pantalla. - Las tarjetas recientes tienen un tratamiento visual más claro de hover, borde y selección por inspector. - Los proyectos sin imagen dejan de verse como rectángulos negros vacíos: muestran una tarjeta “SIN PREVIEW” con nombre del proyecto. - Se mantienen Favoritos, Ruta, Caption, Abrir PSD, Subir a redes e iconos personalizados de secciones. - El icono oficial vuelve a usar los colores azul/cian/violeta/blanco originales y el build genera un ICO multirresolución para Windows."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.8/GaleriaPremium_Update_v0.10.8.zip",
+  "notes": "Galería Premium v0.10.8  - Recientes vuelve al diseño de v0.10.6: tarjeta destacada + tarjetas superiores y “Más recientes”. - El rediseño experimental ya no reemplaza la pantalla principal. - Se agrega “Inspector PSD” como módulo separado en la barra lateral de Proyectos. - Inspector PSD conserva la vista avanzada con proyecto seleccionado y cuadrícula de proyectos. - El inspector puede mostrar el primer artboard de un PSD con múltiples artboards sin modificar la vista normal de Recientes. - La interfaz normal de Recientes, Recordatorios, Favoritos y carpetas vuelve a conservar su acomodo anterior. - Se corrige nuevamente el icono de Windows usando el artwork original con sus colores cian, azul, violeta y blanco, sin oscurecimiento."
 }
