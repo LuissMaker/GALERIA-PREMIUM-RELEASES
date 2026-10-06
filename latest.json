@@ -1,8 +1,8 @@
 {
-  "version": "0.10.5",
-  "tag": "v0.10.5",
-  "asset": "GaleriaPremium_Update_v0.10.5.zip",
+  "version": "0.10.6",
+  "tag": "v0.10.6",
+  "asset": "GaleriaPremium_Update_v0.10.6.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.5/GaleriaPremium_Update_v0.10.5.zip",
-  "notes": "Galería Premium v0.10.5  - Recordatorios: selector de fecha con calendario desplegable. - Recordatorios: opciones rápidas para mostrar el aviso el mismo día, 1, 3, 7 o 14 días antes, además de valor personalizado. - Recordatorios: repetición semanal, mensual y anual. - Recordatorios: guardado persistente inmediato y listado de todos los recordatorios pendientes, aunque todavía no hayan entrado en su periodo de aviso. - Recordatorios: edición, eliminación, posposición y marcado como completado conservan correctamente el estado. - Secciones/carpetas de Proyectos reutilizan el icono definido por Exportar Premium mediante _collection_icon_selected.txt. - Si una sección no tiene icono personalizado, conserva el icono de carpeta normal. - Los iconos de sección se cargan en miniatura y se mantienen en caché para reducir trabajo innecesario. - Dentro de GRUPOS se añade una acción visible Renombrar, además de F2 y clic derecho → Renombrar. - El renombrado dentro de grupos actualiza el nombre mostrado en la Biblioteca sin cambiar el archivo físico. - Minimizar Galería Premium mantiene la ventana en la barra de tareas de Windows; la bandeja queda reservada para el funcionamiento en segundo plano."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.6/GaleriaPremium_Update_v0.10.6.zip",
+  "notes": "Galería Premium v0.10.6  - Minimizar ahora oculta la ventana de la barra de tareas y deja Galería Premium únicamente en la bandeja del sistema. - Se agrega Favoritos a la biblioteca de Proyectos/PSD, con contador y acción Agregar/Quitar de Favoritos en el menú contextual. - Recientes muestra un contador real cuando existen menos de 52 proyectos. - El inspector destacado de proyecto añade accesos rápidos para Copiar ruta y Copiar caption. - Las tarjetas recientes muestran metadata útil al pasar el cursor: fecha, número de artboards y ruta. - Se mantienen los iconos personalizados de secciones leídos desde Exportar Premium. - Nuevo icono oficial de Galería Premium adaptado para Windows; el build genera automáticamente el ICO multirresolución."
 }
