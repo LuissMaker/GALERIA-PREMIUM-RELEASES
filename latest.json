@@ -1,8 +1,8 @@
 {
-  "version": "0.10.8",
-  "tag": "v0.10.8",
-  "asset": "GaleriaPremium_Update_v0.10.8.zip",
+  "version": "0.10.9",
+  "tag": "v0.10.9",
+  "asset": "GaleriaPremium_Update_v0.10.9.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.8/GaleriaPremium_Update_v0.10.8.zip",
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.9/GaleriaPremium_Update_v0.10.9.zip",
   "notes": "Galería Premium v0.10.8  - Recientes vuelve al diseño de v0.10.6: tarjeta destacada + tarjetas superiores y “Más recientes”. - El rediseño experimental ya no reemplaza la pantalla principal. - Se agrega “Inspector PSD” como módulo separado en la barra lateral de Proyectos. - Inspector PSD conserva la vista avanzada con proyecto seleccionado y cuadrícula de proyectos. - El inspector puede mostrar el primer artboard de un PSD con múltiples artboards sin modificar la vista normal de Recientes. - La interfaz normal de Recientes, Recordatorios, Favoritos y carpetas vuelve a conservar su acomodo anterior. - Se corrige nuevamente el icono de Windows usando el artwork original con sus colores cian, azul, violeta y blanco, sin oscurecimiento."
 }
