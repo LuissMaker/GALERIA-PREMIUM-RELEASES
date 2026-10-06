@@ -1,8 +1,8 @@
 {
-  "version": "0.10.6",
-  "tag": "v0.10.6",
-  "asset": "GaleriaPremium_Update_v0.10.6.zip",
+  "version": "0.10.7",
+  "tag": "v0.10.7",
+  "asset": "GaleriaPremium_Update_v0.10.7.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.6/GaleriaPremium_Update_v0.10.6.zip",
-  "notes": "Galería Premium v0.10.6  - Minimizar ahora oculta la ventana de la barra de tareas y deja Galería Premium únicamente en la bandeja del sistema. - Se agrega Favoritos a la biblioteca de Proyectos/PSD, con contador y acción Agregar/Quitar de Favoritos en el menú contextual. - Recientes muestra un contador real cuando existen menos de 52 proyectos. - El inspector destacado de proyecto añade accesos rápidos para Copiar ruta y Copiar caption. - Las tarjetas recientes muestran metadata útil al pasar el cursor: fecha, número de artboards y ruta. - Se mantienen los iconos personalizados de secciones leídos desde Exportar Premium. - Nuevo icono oficial de Galería Premium adaptado para Windows; el build genera automáticamente el ICO multirresolución."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.7/GaleriaPremium_Update_v0.10.7.zip",
+  "notes": "Galería Premium v0.10.7  - Rediseño visual real de la Biblioteca de PSD / Proyectos. - Recientes ahora usa un inspector superior de ancho completo para el proyecto seleccionado, en lugar de cuatro tarjetas compitiendo en la misma fila. - Al hacer clic en cualquier proyecto reciente, pasa inmediatamente al inspector sin abrir Photoshop. - El inspector muestra sección, disponibilidad de PSD, número de artboards y estado de Favorito. - Si un PSD tiene varios artboards, el inspector puede usar el primer artboard como preview de alta calidad. - La cuadrícula de proyectos recientes es más compacta, con menos espacio negro y más proyectos visibles por pantalla. - Las tarjetas recientes tienen un tratamiento visual más claro de hover, borde y selección por inspector. - Los proyectos sin imagen dejan de verse como rectángulos negros vacíos: muestran una tarjeta “SIN PREVIEW” con nombre del proyecto. - Se mantienen Favoritos, Ruta, Caption, Abrir PSD, Subir a redes e iconos personalizados de secciones. - El icono oficial vuelve a usar los colores azul/cian/violeta/blanco originales y el build genera un ICO multirresolución para Windows."
 }
