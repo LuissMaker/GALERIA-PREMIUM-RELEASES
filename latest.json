@@ -1,8 +1,8 @@
 {
-  "version": "0.10.9",
-  "tag": "v0.10.9",
-  "asset": "GaleriaPremium_Update_v0.10.9.zip",
+  "version": "0.10.10",
+  "tag": "v0.10.10",
+  "asset": "GaleriaPremium_Update_v0.10.10.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.9/GaleriaPremium_Update_v0.10.9.zip",
-  "notes": "Galería Premium v0.10.9  - Corrige el actualizador de Windows cuando VCRUNTIME140.dll u otros archivos quedan bloqueados por la instancia anterior. - El actualizador espera más tiempo a que Galería Premium cierre por completo. - Si la aplicación no termina, el actualizador fuerza el cierre del árbol del proceso antes de reemplazar archivos. - La copia de archivos ahora reintenta automáticamente ante bloqueos temporales o permisos en uso. - Si la actualización vuelve a fallar, se muestra un mensaje claro en lugar de una ventana de excepción sin controlar. - Mantiene los cambios de v0.10.8: Recientes restaurado, Inspector PSD separado e icono a color."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.10/GaleriaPremium_Update_v0.10.10.zip",
+  "notes": "Galería Premium v0.10.10  - Corrige definitivamente el bloqueo de VCRUNTIME140.dll durante las actualizaciones. - El actualizador ahora cierra TODAS las instancias de Galería Premium antes de reemplazar archivos, incluida una instancia oculta en bandeja o iniciada con Windows. - Ya no depende únicamente del PID de la ventana que inició la actualización. - Se mantienen los reintentos de copia para archivos temporalmente bloqueados. - Mantiene Recientes con el diseño anterior y el Inspector PSD como sección independiente. - Mantiene el icono de Windows a color."
 }
