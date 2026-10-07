@@ -1,8 +1,8 @@
 {
-  "version": "0.10.10",
-  "tag": "v0.10.10",
-  "asset": "GaleriaPremium_Update_v0.10.10.zip",
+  "version": "0.10.11",
+  "tag": "v0.10.11",
+  "asset": "GaleriaPremium_Update_v0.10.11.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.10/GaleriaPremium_Update_v0.10.10.zip",
-  "notes": "Galería Premium v0.10.10  - Corrige definitivamente el bloqueo de VCRUNTIME140.dll durante las actualizaciones. - El actualizador ahora cierra TODAS las instancias de Galería Premium antes de reemplazar archivos, incluida una instancia oculta en bandeja o iniciada con Windows. - Ya no depende únicamente del PID de la ventana que inició la actualización. - Se mantienen los reintentos de copia para archivos temporalmente bloqueados. - Mantiene Recientes con el diseño anterior y el Inspector PSD como sección independiente. - Mantiene el icono de Windows a color."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.11/GaleriaPremium_Update_v0.10.11.zip",
+  "notes": "Galería Premium v0.10.11  - Corrige un fallo crítico al iniciar: Database no tiene atributo setStyleSheet. - El bloque visual de Inspector PSD se había insertado por error dentro de la inicialización de la base de datos. - Los estilos del Inspector PSD ahora están en ProjectProfileBrowser, donde corresponden. - Mantiene el actualizador corregido de v0.10.10, Recientes restaurado, Inspector PSD separado e icono a color."
 }
