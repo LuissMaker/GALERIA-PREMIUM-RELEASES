@@ -1,8 +1,8 @@
 {
-  "version": "0.10.11",
-  "tag": "v0.10.11",
-  "asset": "GaleriaPremium_Update_v0.10.11.zip",
+  "version": "0.10.13",
+  "tag": "v0.10.13",
+  "asset": "GaleriaPremium_Update_v0.10.13.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.11/GaleriaPremium_Update_v0.10.11.zip",
-  "notes": "Galería Premium v0.10.11  - Corrige un fallo crítico al iniciar: Database no tiene atributo setStyleSheet. - El bloque visual de Inspector PSD se había insertado por error dentro de la inicialización de la base de datos. - Los estilos del Inspector PSD ahora están en ProjectProfileBrowser, donde corresponden. - Mantiene el actualizador corregido de v0.10.10, Recientes restaurado, Inspector PSD separado e icono a color."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.13/GaleriaPremium_Update_v0.10.13.zip",
+  "notes": "Galería Premium v0.10.13  - PSDS pasa a ser un workspace independiente pensado específicamente para miniaturas. - Nuevo modo MOSTRADOR con una franja de Recientes y una biblioteca general de miniaturas. - Nuevo modo VISOR para evaluar una miniatura dentro de un entorno visual inspirado en YouTube. - Presets del Visor: YouTube · Inicio, YouTube · Búsqueda y Shorts / Reels. - Randomizador de posición para cambiar el contexto visual y comprobar si una miniatura sigue destacando. - Posición manual fija (1-12) para pruebas repetibles. - Selector de versiones dentro del Visor para alternar Principal / Versiones sin salir de la simulación. - Las versiones se detectan como subcarpetas del proyecto y se mantienen agrupadas. - Agregar miniatura acepta imágenes y PSD; arrastrar archivos al Mostrador también funciona. - Pegar desde portapapeles crea una nueva versión PNG conservando alfa cuando existe. - Antes de agregar una versión se mantiene visible el destino: Proyecto > Version XX. - Si no hay proyecto seleccionado, Galería Premium pregunta a qué proyecto pertenece la miniatura. - Menú contextual de PSDS incorpora “Ver en Visor”. - El Visor usa previews/caché existentes y evita cargar PSD completos innecesariamente. - Se limita la carga inicial del Mostrador en bibliotecas muy grandes para mantener respuesta rápida; búsqueda y filtros siguen disponibles. - Mantiene las mejoras previas de grupos, iconografía y actualizador."
 }
