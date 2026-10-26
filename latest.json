@@ -1,8 +1,8 @@
 {
-  "version": "0.10.15",
-  "tag": "v0.10.15",
-  "asset": "GaleriaPremium_Update_v0.10.15.zip",
+  "version": "0.10.16",
+  "tag": "v0.10.16",
+  "asset": "GaleriaPremium_Update_v0.10.16.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.15/GaleriaPremium_Update_v0.10.15.zip",
-  "notes": "Galería Premium v0.10.15  - Rediseño visual del workspace PSDS inspirado en el mockup aprobado, sin cambiar la identidad general de Galería Premium. - PSDS incorpora una sidebar propia con acceso visible a Espacios, Mostrador, Visor, Recientes, Versiones y Shorts / Reels. - El botón Espacios siempre está disponible para volver al selector de workspaces. - Mostrador ahora usa tarjetas 16:9 y una composición más cercana a la navegación de YouTube. - Nuevo bloque de Proyecto destacado con preview grande, nombre, metadata, cantidad de versiones y acciones rápidas. - Acciones del destacado: Ver en Visor, Abrir carpeta y Duplicar versión. - Recientes pasa a una fila horizontal de miniaturas 16:9. - Biblioteca PSD usa grid 16:9 más denso y legible. - La selección de una miniatura actualiza automáticamente el proyecto destacado y el destino de la siguiente versión. - La navegación lateral sincroniza los filtros Recientes / Versiones y el modo Shorts-Reels del Visor. - Proyectos, Biblioteca Visual y Videos no reciben cambios de diseño."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.16/GaleriaPremium_Update_v0.10.16.zip",
+  "notes": "Galería Premium v0.10.16  - PSDS > Mostrador adopta un inspector visual inspirado en YouTube. - Miniaturas 16:9 más grandes y con tamaño responsivo: 2, 3 o 4 columnas según el ancho disponible. - Se elimina el scroll horizontal/carrusel del Mostrador. - Recientes se muestra como grid vertical de hasta 6 elementos, no como slider. - Todas las miniaturas se muestran como inspector completo con scroll vertical. - Las tarjetas PSDS priorizan la preview limpia 16:9 y eliminan badges que tapaban la imagen. - El bloque de Proyecto destacado usa la miniatura seleccionada como fondo extendido dinámico. - El fondo destacado se oscurece y aplica un degradado lateral fuerte para conservar legibilidad. - Se eliminan fondos/recuadros innecesarios detrás de título, metadata y descripción del destacado. - La miniatura seleccionada actualiza tanto el preview principal como el fondo extendido. - Biblioteca Visual, Proyectos y Videos permanecen sin cambios de diseño."
 }
