@@ -1,8 +1,8 @@
 {
-  "version": "0.10.16",
-  "tag": "v0.10.16",
-  "asset": "GaleriaPremium_Update_v0.10.16.zip",
+  "version": "0.10.17",
+  "tag": "v0.10.17",
+  "asset": "GaleriaPremium_Update_v0.10.17.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.16/GaleriaPremium_Update_v0.10.16.zip",
-  "notes": "Galería Premium v0.10.16  - PSDS > Mostrador adopta un inspector visual inspirado en YouTube. - Miniaturas 16:9 más grandes y con tamaño responsivo: 2, 3 o 4 columnas según el ancho disponible. - Se elimina el scroll horizontal/carrusel del Mostrador. - Recientes se muestra como grid vertical de hasta 6 elementos, no como slider. - Todas las miniaturas se muestran como inspector completo con scroll vertical. - Las tarjetas PSDS priorizan la preview limpia 16:9 y eliminan badges que tapaban la imagen. - El bloque de Proyecto destacado usa la miniatura seleccionada como fondo extendido dinámico. - El fondo destacado se oscurece y aplica un degradado lateral fuerte para conservar legibilidad. - Se eliminan fondos/recuadros innecesarios detrás de título, metadata y descripción del destacado. - La miniatura seleccionada actualiza tanto el preview principal como el fondo extendido. - Biblioteca Visual, Proyectos y Videos permanecen sin cambios de diseño."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.17/GaleriaPremium_Update_v0.10.17.zip",
+  "notes": "Galería Premium v0.10.17  - PSDS > Visor se rediseña como simulador de feed inspirado en YouTube, no como galería técnica. - Nuevo grid responsivo de 2, 3 o 4 columnas con miniaturas grandes 16:9. - Tarjetas completas con avatar, título, canal, vistas, fecha y menú visual de tres puntos. - La miniatura en prueba deja de usar un borde azul invasivo; ahora se identifica con un badge discreto “TU MINIATURA”. - Se agregan chips superiores tipo YouTube para cambiar contexto visual: Todos, Música, Videojuegos, Anime, Manga, En tiempo real y Shorts. - Los controles de Versión / Posición / Randomizar se compactan y pierden protagonismo frente al feed. - El randomizador usa un feed más denso: hasta 18 tarjetas en Inicio/Búsqueda y 15 en Shorts/Reels. - Shorts/Reels usa tarjetas verticales dedicadas. - PSDS > Mostrador: Recientes ahora carga las últimas 32 miniaturas. - Proyecto destacado: el fondo extendido recibe blur ligero optimizado y mantiene el degradado/oscurecimiento. - Biblioteca Visual, Proyectos y Videos permanecen sin cambios."
 }
