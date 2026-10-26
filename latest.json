@@ -1,8 +1,8 @@
 {
-  "version": "0.10.14",
-  "tag": "v0.10.14",
-  "asset": "GaleriaPremium_Update_v0.10.14.zip",
+  "version": "0.10.15",
+  "tag": "v0.10.15",
+  "asset": "GaleriaPremium_Update_v0.10.15.zip",
   "repo": "LuissMaker/GALERIA-PREMIUM-RELEASES",
-  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.14/GaleriaPremium_Update_v0.10.14.zip",
-  "notes": "Galería Premium v0.10.14  - PSDS ahora es un tipo de espacio de trabajo independiente. - El selector “Agregar o crear espacio” incorpora PSDS junto a Biblioteca visual, Proyectos y Videos. - Los espacios PSDS tienen su propia carpeta raíz y configuración persistente. - Al abrir un espacio PSDS se entra directamente al Mostrador, sin pasar por Proyectos. - PSDS usa una instancia de workspace separada para conservar menús, estado e interfaz independientes. - El menú lateral de Proyectos deja de mostrar PSDS para evitar mezclar ambos flujos. - Mostrador, Visor, versiones, randomizador y Shorts/Reels permanecen dentro del espacio PSDS. - Se puede vincular una carpeta existente o crear una carpeta nueva específicamente para PSDS. - Re-vincular un espacio PSDS actualiza su navegador dedicado. - Se conserva la precarga ligera para que volver a un espacio PSDS no obligue a reescanear toda la biblioteca."
+  "download": "https://github.com/LuissMaker/GALERIA-PREMIUM-RELEASES/releases/download/v0.10.15/GaleriaPremium_Update_v0.10.15.zip",
+  "notes": "Galería Premium v0.10.15  - Rediseño visual del workspace PSDS inspirado en el mockup aprobado, sin cambiar la identidad general de Galería Premium. - PSDS incorpora una sidebar propia con acceso visible a Espacios, Mostrador, Visor, Recientes, Versiones y Shorts / Reels. - El botón Espacios siempre está disponible para volver al selector de workspaces. - Mostrador ahora usa tarjetas 16:9 y una composición más cercana a la navegación de YouTube. - Nuevo bloque de Proyecto destacado con preview grande, nombre, metadata, cantidad de versiones y acciones rápidas. - Acciones del destacado: Ver en Visor, Abrir carpeta y Duplicar versión. - Recientes pasa a una fila horizontal de miniaturas 16:9. - Biblioteca PSD usa grid 16:9 más denso y legible. - La selección de una miniatura actualiza automáticamente el proyecto destacado y el destino de la siguiente versión. - La navegación lateral sincroniza los filtros Recientes / Versiones y el modo Shorts-Reels del Visor. - Proyectos, Biblioteca Visual y Videos no reciben cambios de diseño."
 }
